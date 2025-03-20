@@ -20,6 +20,19 @@ verificadorPar(numero);
 
 console.log ("Operações Matemáticas Simples") 
 let numero = parseFloat("Digite um número:")
-function matematica(numero) {
-    
+function calcular(num1,num2) {
+
+    const soma = num1 + num2;
+    const subtracao = num1 + num2;
+    const multiplicação = num1 + num2;
+    console.log(soma)
+    console.log(subtracao)
+    console.log(multiplicação)
+    if(num2 ===0)
+        console.log("Não da pra dividir por 0!")
+    else{
+        const divisao = num1 / num2;
+        console.log(divisao)
+    }
 }
+calcular(n1,n2);
