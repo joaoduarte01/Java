@@ -1,3 +1,5 @@
+/*
+
 console.log("Verificador Números Par e Ímpar");
 
 let numero = prompt("Digite seu número:");
@@ -13,3 +15,7 @@ function verificadorPar(numero){
 
 }
 verificadorPar(numero);
+
+*/
+
+console.log (Operações Matemáticas Simples)         
