@@ -16,7 +16,7 @@ function verificadorPar(numero){
 }
 verificadorPar(numero);
 
-*/
+
 
 console.log ("Operações Matemáticas Simples") 
 let numero = parseFloat("Digite um número:")
@@ -36,3 +36,5 @@ function calcular(num1,num2) {
     }
 }
 calcular(n1,n2);
+
+*/
