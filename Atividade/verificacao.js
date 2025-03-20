@@ -18,5 +18,8 @@ verificadorPar(numero);
 
 */
 
-console.log (Operações Matemáticas Simples) 
-let numero = parseFloat("Digite um número")
+console.log ("Operações Matemáticas Simples") 
+let numero = parseFloat("Digite um número:")
+function matematica(numero) {
+    
+}
