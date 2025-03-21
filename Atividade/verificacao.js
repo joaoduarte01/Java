@@ -43,3 +43,11 @@ for (let i = 10; i > 0; i--){
     console.log("Contagem Regressiva")
 }
 */
+
+console.log("Manipulação de Strings")
+let prompt('Digite uma palavra:')
+inverterTexto(texto);
+function inverterTexto (texto){
+    invertida = texto.split('').reverse().join('')
+    console.log("Invertida")
+}
