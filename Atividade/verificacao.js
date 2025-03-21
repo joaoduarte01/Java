@@ -38,3 +38,5 @@ function calcular(num1,num2) {
 calcular(n1,n2);
 
 */
+console.log ("Laço While que imprime de 10 até 1 no console")
+for let(i = 10) 
